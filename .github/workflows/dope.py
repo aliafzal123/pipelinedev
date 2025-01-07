@@ -1,1 +1,1 @@
-print(mini)
+print("mini")
